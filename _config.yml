@@ -1,0 +1,28 @@
+name: Creepy Or Cool?
+favicon: null
+layout_spectrum: 0.7930732772219926
+typography_spectrum: 0.9742397509980947
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5473069136496633
+  lightness: 0.12753287027589977
+  saturation: 0.29471206082962453
+  rhythmicContrast: 0.624873478198424
+purpose: []
