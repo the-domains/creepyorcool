@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Creepy Or Cool?]]></title>
         <description><![CDATA[Creepy Or Cool?]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/creepyorcool/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 04 May 2016 23:49:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 05 May 2016 14:57:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/creepyorcool/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Faux-Provocation of Atheism]]></title>
+            <description><![CDATA[<p>I'm an atheist.</p>]]></description>
+            <link>https://thegrid.ai/creepyorcool/the-faux-provocation-of-atheism/index.html</link>
+            <guid isPermaLink="false">0459bb62-5438-422c-903e-b84653ab9e2a</guid>
+            <pubDate>Thu, 05 May 2016 14:57:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[I hope Trump's primary victory isn't a death knell for conservatism in America]]></title>
             <description><![CDATA[<p>With the Indiana loss last night, and Cruz’s withdrawal from the primary race, the next President of the United States will be a big government leftist: Trump, Clinton or Sanders (Clinton in all likelihood barring a miracle).</p>]]></description>
-            <link>undefinedi-hope-trumps-primary-victory-isnt-a-death-knell-for-conse/index.html</link>
+            <link>https://thegrid.ai/creepyorcool/i-hope-trumps-primary-victory-isnt-a-death-knell-for-conse/index.html</link>
             <guid isPermaLink="false">c83054db-52c2-4c53-a8a3-a449bb55bd4d</guid>
             <pubDate>Wed, 04 May 2016 23:49:55 GMT</pubDate>
         </item>
